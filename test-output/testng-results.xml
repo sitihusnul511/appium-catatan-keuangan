@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-09T18:43:22 WIB" name="Default suite" finished-at="2022-04-09T18:45:42 WIB" duration-ms="140120">
+    <groups>
+    </groups>
+    <test started-at="2022-04-09T18:43:22 WIB" name="Default test" finished-at="2022-04-09T18:45:42 WIB" duration-ms="140120">
+      <class name="com.juaracoding.catatankeuangan.StepDefinition">
+        <test-method is-config="true" signature="initReports()[pri:0, instance:com.juaracoding.catatankeuangan.StepDefinition@74751b3]" started-at="2022-04-09T18:43:22 WIB" name="initReports" finished-at="2022-04-09T18:43:22 WIB" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReports -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoding.catatankeuangan.StepDefinition@74751b3]" started-at="2022-04-09T18:43:22 WIB" name="setUp" finished-at="2022-04-09T18:43:31 WIB" duration-ms="9177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethodTest()[pri:0, instance:com.juaracoding.catatankeuangan.StepDefinition@74751b3]" started-at="2022-04-09T18:43:31 WIB" name="beforeMethodTest" finished-at="2022-04-09T18:43:31 WIB" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodTest -->
+        <test-method signature="testAddExpense()[pri:1, instance:com.juaracoding.catatankeuangan.StepDefinition@74751b3]" started-at="2022-04-09T18:43:31 WIB" name="testAddExpense" description="User menambahkan pengeluaran" finished-at="2022-04-09T18:44:44 WIB" duration-ms="72128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddExpense -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.juaracoding.catatankeuangan.StepDefinition@74751b3]" started-at="2022-04-09T18:44:44 WIB" name="getResult" finished-at="2022-04-09T18:44:44 WIB" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAddExpense status=SUCCESS method=StepDefinition.testAddExpense()[pri:1, instance:com.juaracoding.catatankeuangan.StepDefinition@74751b3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="testAddIncome()[pri:2, instance:com.juaracoding.catatankeuangan.StepDefinition@74751b3]" started-at="2022-04-09T18:44:44 WIB" name="testAddIncome" description="User menambahkan pemasukan" finished-at="2022-04-09T18:45:40 WIB" duration-ms="56810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddIncome -->
+        <test-method is-config="true" signature="beforeMethodTest()[pri:0, instance:com.juaracoding.catatankeuangan.StepDefinition@74751b3]" started-at="2022-04-09T18:44:44 WIB" name="beforeMethodTest" finished-at="2022-04-09T18:44:44 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.juaracoding.catatankeuangan.StepDefinition@74751b3]" started-at="2022-04-09T18:45:40 WIB" name="getResult" finished-at="2022-04-09T18:45:40 WIB" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAddIncome status=SUCCESS method=StepDefinition.testAddIncome()[pri:2, instance:com.juaracoding.catatankeuangan.StepDefinition@74751b3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.juaracoding.catatankeuangan.StepDefinition@74751b3]" started-at="2022-04-09T18:45:40 WIB" name="closeApp" finished-at="2022-04-09T18:45:42 WIB" duration-ms="1761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.juaracoding.catatankeuangan.StepDefinition -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
